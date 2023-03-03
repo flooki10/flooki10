@@ -33,7 +33,7 @@
 
 - 🤓 Healthcare engineering student
 
-- 📝 I regularly working part time job like a Freelincing
+- 📝 I regularly working part time job as a Freelancer
 
 - 💬 Ask me about **Python, Java, Javascript, Html, Css, R, Sql **
 
