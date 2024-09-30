@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src= "https://user-images.githubusercontent.com/101206416/222605349-723f297a-475e-4736-8298-6bbd00015870.png" />
     <h1 align="center">Hi 👋, I'm SABHI WALID</h1>
-    <h3 align="center">I am a Health Engineering student in Spain. I am a professional Full Stack Web Developer. I have more than 5 years of experience i can develop any kinds of website which will be very unique,stylish & highly professional. I believe I can help you to have exactly what you are looking for. I believe in perfection in my work. </h3>
+    <h3 align="center">Soy Walid, ingeniero de la Salud, actualmente cursando un máster en Big Data y Ciencias de Datos. Con una mentalidad ambiciosa y orientada al aprendizaje continuo, busco integrar mis conocimientos en salud y análisis de datos para enfrentar nuevos desafíos. </h3>
 </div>
 
 ---
