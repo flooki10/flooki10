@@ -33,7 +33,7 @@
 
 - 🤝 CEO & Founder @CLOSTR and @PALMCLY
 
-- 🤓 Healthcare engineering student
+- 🤓 Health engineer & Big Data student
 
 - 📝 I regularly working part time job as a Freelancer
 
