@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src= "file:///C:/Users/walid/OneDrive/Desktop/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" />
+    <img src= "https://github.com/flooki10/flooki10/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" />
     <h1 align="center">Hi 👋, I'm SABHI WALID</h1>
     <h3 align="center">Soy Walid, ingeniero de la Salud, actualmente cursando un máster en Big Data y Ciencias de Datos. Con una mentalidad ambiciosa y orientada al aprendizaje continuo. </h3>
 </div>
