@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    <img src= "https://github.com/flooki10/flooki10/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" />
-    <h1 align="center">Hi 👋, I'm SABHI WALID</h1>
+    <h1 align="center">Hi 👋, I'm WALID</h1>
     <h3 align="center">Soy Walid, ingeniero de la Salud, actualmente cursando un máster en Big Data y Ciencias de Datos. Con una mentalidad ambiciosa y orientada al aprendizaje continuo. </h3>
 </div>
 
@@ -30,19 +29,19 @@
 
 ### 👨‍💻 About Me :
 
-- 🤝 CEO & Founder @CLOSTR and @PALMCLY
+- 🤝 Founder @CLOSTR 
 
-- 🤓 Health engineer & Big Data student
+- 🤓 Engineer
 
 - 📝 I regularly working part time job as a Freelancer
 
 - 💬 Ask me about **Python, Java, Javascript, Html, Css, R, Sql **
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and building modern apps**
+- 🌱 **React.js, Blockchain, Web3 and building modern apps**
 
-- 📫 How to reach me **walidsabhi99@gmail.com**
+- 📫 How to reach me **clostr1010@gmail.com**
 
-- 🌐 Website [sabhiwalid.com](https://sabhiwalid.com/)
+- 🌐 Website [clostr.com](clostr.com)
 
 
       
