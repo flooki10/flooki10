@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm WALID</h1>
-    <h3 align="center">Soy Walid, ingeniero de la Salud, actualmente cursando un máster en Big Data y Ciencias de Datos. Con una mentalidad ambiciosa y orientada al aprendizaje continuo. </h3>
 </div>
 
 ---
