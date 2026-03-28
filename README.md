@@ -27,8 +27,6 @@
 
 ### 👨‍💻 About Me :
 
-- 🤝 Founder @CLOSTR 
-
 - 🤓 Engineer
 
 - 📝 I regularly working part time job as a Freelancer
@@ -38,8 +36,6 @@
 - 🌱 **React.js, Blockchain, Web3 and building modern apps**
 
 - 📫 How to reach me **clostr1010@gmail.com**
-
-- 🌐 Website [clostr.com](clostr.com)
 
 
       
