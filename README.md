@@ -3,11 +3,6 @@
 </div>
 
 ---
-### 🌐 **My social media:**
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabhi-walid-062215205/)
-
----
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
